@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\bin\Debug\Collectiongeneric.exe.config
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\bin\Debug\Collectiongeneric.exe
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\bin\Debug\Collectiongeneric.pdb
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\obj\Debug\Collectiongeneric.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\obj\Debug\Collectiongeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\obj\Debug\Collectiongeneric.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\obj\Debug\Collectiongeneric.exe
+C:\Users\HP\source\repos\Collectiongeneric\Collectiongeneric\obj\Debug\Collectiongeneric.pdb
